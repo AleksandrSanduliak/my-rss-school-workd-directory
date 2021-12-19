@@ -17,8 +17,8 @@ I study at the university and work with a degree in Automation of Technological 
 
 ### **_Code example_**
 ``` 
-function multiply(a, b){
-  return a * b
+function multiply(num1, num2){
+  return num1 * num2
 }
 ```
 ### **_Education_**

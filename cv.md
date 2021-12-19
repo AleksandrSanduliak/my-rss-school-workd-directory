@@ -17,7 +17,9 @@ I study at the university and work with a degree in Automation of Technological 
 
 ### **_Code example_**
 ``` 
-
+function multiply(a, b){
+  return a * b
+}
 ```
 ### **_Education_**
 * Secondary Vocational Education "Computer Systems Technician" - Cherepovets Metallurgical College from 2014 to 2018

@@ -14,6 +14,7 @@ I study at the university and work with a degree in Automation of Technological 
 * Git
 * Figma
 * Photoshop
+* JS
 
 ### **_Code example_**
 ``` 

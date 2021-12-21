@@ -31,7 +31,7 @@ function multiply(num1, num2){
 
 ### **_Languages_**
 * Russian
-* Englishh
+* English
 
 
 
